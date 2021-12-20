@@ -17,8 +17,8 @@ To write a program to find the Gaussian Elimination with partial pivoting of a m
 ```
 /*
 Program to find the Gaussian Elimination with partial pivoting of a matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: J.Archana priya
+RegisterNumber: 21500533
 import numpy as np
 import sys
 n=int(input())
